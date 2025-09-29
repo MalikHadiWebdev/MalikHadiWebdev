@@ -42,18 +42,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-F8DC32.svg?style=for-the-badge&logo=gemini&logoColor=white) 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MalikHadiWebdev&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MalikHadiWebdev&theme=gruvbox_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHadiWebdev&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MalikHadiWebdev&theme=merko&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
