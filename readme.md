@@ -4,7 +4,7 @@
 🤝 I’m looking for help with: **AI integrations, camera-based monitoring, and performance optimization**.<br>
 🌱 I’m currently learning: **Next.js, React Native, and MongoDB**.<br>
 💬 Ask me about: **Web Development (MERN), UI/UX, Graphic Design, and Video Editing**.<br>
-⚡ Fun fact: I'm a **polyglot** who knows **five programming languages** (JavaScript, Python, HTML, C++, and Dart).<br>
+⚡ Fun fact: I'm a **polyglot** who knows **five programming languages** (JavaScript, Python, C, C++, and Dart).<br>
 
 ---
 
